@@ -1,0 +1,9 @@
+.main-container {
+  margin-top: 40px;
+}
+
+/* no puede afectar completamene a los estilos ya aplicados dentro de otro componente
+p {
+  color: blue !important;
+}
+*/
